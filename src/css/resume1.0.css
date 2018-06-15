@@ -95,14 +95,16 @@ address span{
 	color:#333;
 }
 .details_header ul li a:hover{
-	color:#6ecadc;
+  color:#6ecadc;
+  text-decoration: none;
 }
 .program {
 	margin:2em 0;
 }
 .program h3{
   color: #FFF;
-  padding: 5px 41px 5px 30px;
+  /* padding: 5px 41px 5px 30px; */
+  padding:5px 98px 5px 30px;
   display: inline-block;
 }
 .skills h3{
@@ -111,10 +113,11 @@ address span{
   display: inline-block;
 }
 .skill-list li{
-  padding: 0.8em 0 0em 2em;
+  padding: 0.8em 0 0em 1em;
   list-style-position: inside;
   list-style-type: disc;
   color:#666;
+  font-size:0.8em;
 }
 .program_details,.education_details {
 	padding:1.5em 0 0em 2em;
@@ -126,10 +129,11 @@ address span{
 	margin-bottom:6px;
 	font-family: 'Varela Round', sans-serif;
 }
-.program_details h4 span,.education_details h4 span{
+.program_details h4 span,
+.education_details h4 span{
 	font-size: 0.65em;
   margin-left: 5px;
-  color: #999;
+  color: #666;
   font-weight:400;
 }
 .program_details h6,.education_details h6{
@@ -138,7 +142,7 @@ address span{
 	font-size:0.9em;
 }
 .program_details p,.skill_info p,.education_details p{
-	color:#999;
+	color:#666;
 	font-weight:300;
 	line-height:1.7em;
 }
@@ -171,10 +175,21 @@ address span{
 .skill1 ul li,.skill2 ul li{
 	color:#333;
 }
+.toshow{
+  color:#6ecadc;
+  font-weight:400;
+  font-size: 0.65em;
+  margin-left: 5px;
+  border:1px solid #Ccc;
+  padding:0.0em 0.3em;
+  border-radius: 5px;
+  text-decoration: none;
+}
 .education  h3{
   background: #999;
   color: #FFF;
-  padding: 5px 190px 5px 30px;
+  /* padding: 5px 190px 5px 30px; */
+  padding:5px 98px 5px 30px;
   display: inline-block;
 }
 h3.clr1{
