@@ -125,7 +125,7 @@ address span{
 .program_details h4,.education_details h4{
 	color:#333;
 	font-weight:600;
-	font-size:1.5em;
+	font-size:1.2em;
 	margin-bottom:6px;
 	font-family: 'Varela Round', sans-serif;
 }
@@ -275,11 +275,11 @@ h3.clr3{
 }
 @media (max-width: 768px){
 .sidebar {
-  width: 22%;
+  width: 100%;
 }
 .main {
-  margin-left: 21.666667%;
-  width: 78%;
+  margin-left: 0%;
+  width: 100%;
 }
 .sidebar h1 {
   font-size: 1.4em;
@@ -338,7 +338,7 @@ address span {
   font-size:0.85em;
 }
 }
-@media (max-width: 736px){
+/* @media (max-width: 736px){
 .sidebar {
   width: 100%;
 }
@@ -355,7 +355,7 @@ address span {
 	width:30%;
 	float:right;
 }
-}
+} */
 @media (max-width: 640px){
 .sidebar {
   width: 100%;
@@ -562,3 +562,37 @@ address span {
   padding-left: 1.5em;
 }
 }
+.company-info {
+  padding: 1.5em 0 0em 2em;
+}
+.company-info::after {
+  content:"";
+  display: block;
+  height:1px; 
+  background-color: #ccc;
+}
+.company-name {
+  font-size: 1.5em;
+  color: #333;
+  font-family: 'Varela Round', sans-serif;
+  font-weight: 600;
+  margin-bottom: 8px;
+}
+.company-name span {
+  color: #666;
+  font-size:.8em;
+  margin-left: 6px;
+  font-weight: normal;
+}
+.company-moreInfo {
+  margin-bottom: 1em;
+}
+.programs-title{
+  padding: 16px 0 0 32px;
+  font-size: 1.2em;
+  color: #333;
+  font-family: 'Varela Round', sans-serif;
+  font-weight: 600;
+  margin-bottom: -8px;
+}
+
