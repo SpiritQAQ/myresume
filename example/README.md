@@ -48,13 +48,14 @@
 1. HTML、CSS，能准确还原设计稿
 2. 原生 JavaScript， ES6+ 的常用特性
 3. Vue.js
-4. 小程序开发，使用过原生小程序、mpvue、uni-app开发
+4. 小程序
 
 ### 了解
 1. React.js
-2. HTTP & HTTP/2 协议
-3. TypeScript
-4. Node.js
+2. TypeScript
+3. Node.js
+4. Webpack
+5. HTTP & HTTP/2 协议
 
 ## 教育经历
 
