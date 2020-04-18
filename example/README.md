@@ -18,7 +18,7 @@
 
 ## 项目经验
 
-### 小布壳HybridApp H5项目<span class="right">2018.11 - 2019.12</span>
+### 小布壳HybridApp H5项目 - 独立开发 <span class="right">2018.11 - 2019.12</span>
 
 - 描述: 负责App内 Webview 页面和微信分享H5页面开发。
 - 复杂页面使用 Vue.js 开发，简单页面采用 原生JS 开发，准确还原设计稿。
@@ -27,7 +27,7 @@
 
 ---
 
-### 小布壳绘本馆系统<span class="right">2019.05 - 2019.12</span>
+### 小布壳绘本馆系统 - 项目负责人<span class="right">2019.05 - 2019.12</span>
 
 - 描述：toB端的绘本馆管理系统，为上百家绘本馆提供书籍、会员、课程管理等服务。toC端小程序为用户提供自助借还书，会员支付，播放在线课程等功能。
 - 管理系统基于 Antd Design Pro 开发，技术栈为 React、UmiJS、dva和antd。小程序使用 mpvue 框架开发。
@@ -35,7 +35,7 @@
 
 ---
 
-### CMS内容管理系统<span class="right">2018.11 - 2019.12</span>
+### CMS内容管理系统 - 独立开发 <span class="right">2018.11 - 2019.12</span>
 
 - 负责内部 CMS 后台需求的开发和维护。
 - 基于 Vue + Vuex + Vue-Router。使用 ElementUI 作为组件库，使用 Echarts 开发可视化内容。
@@ -44,7 +44,7 @@
 
 ## 技能描述
 
-### 熟悉
+<!-- ### 熟悉
 1. HTML、CSS，能准确还原设计稿
 2. 原生 JavaScript， ES6+ 的常用特性
 3. Vue.js
@@ -55,7 +55,16 @@
 2. TypeScript
 3. Node.js
 4. Webpack
-5. HTTP & HTTP/2 协议
+5. HTTP & HTTP/2 协议 -->
+  
+- 熟悉 JavaScript ，了解 TypeScript ，掌握 ES6 以上常用语法
+- 熟练使用 Vue.js 开发项目，深入了解其原理
+- 了解 React.js
+- 了解 Sass 等CSS预处理器
+- 了解小程序开发
+- 熟悉前端工程化, 熟悉 Webpack
+- 了解 Node.js
+
 
 ## 教育经历
 
