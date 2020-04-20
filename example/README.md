@@ -58,7 +58,7 @@
 5. HTTP & HTTP/2 协议 -->
   
 - 熟悉 JavaScript ，了解 TypeScript ，掌握 ES6 以上常用语法
-- 熟练使用 Vue.js 开发项目，深入了解其原理
+- 熟练使用 Vue.js 开发项目，了解其原理
 - 了解 React.js
 - 了解 Sass 等CSS预处理器
 - 了解小程序开发

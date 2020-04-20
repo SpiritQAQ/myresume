@@ -1,5 +1,7 @@
 module.exports = {
-  base: '/vuepress-theme-resume/example/dist/',
+  port: 5000,
+  base: '/',
+  title: "简历 - 毕云帆 - 前端开发",
   dest: 'example/dist',
   theme: 'resume',
   themeConfig: {
