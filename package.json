@@ -1,8 +1,8 @@
 {
-  "name": "vuepress-theme-resume",
+  "name": "my-resume",
   "version": "1.0.1",
-  "description": "编写简洁优雅的markdown简历，由 vuepress 驱动",
-  "author": "momoko <ko.momo@qq.com>",
+  "description": "",
+  "author": "",
   "license": "MIT",
   "private": false,
   "main": "index.js",
