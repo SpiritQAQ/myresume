@@ -14,8 +14,8 @@
     "resume"
   ],
   "scripts": {
-    "dev": "vuepress dev example",
-    "build": "vuepress build example",
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
     "release": "sh scripts/release.sh"
   },
   "devDependencies": {
