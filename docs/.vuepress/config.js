@@ -1,8 +1,8 @@
 module.exports = {
   port: 5000,
-  base: '/docs/dist',
+  // base: '/docs',
   title: '简历 - 毕云帆 - 前端开发',
-  dest: 'docs/dist',
+  // dest: 'docs',
   theme: 'resume',
   themeConfig: {
     sidebar: [

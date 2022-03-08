@@ -17,6 +17,3 @@ git checkout master
 # push
 git push --tags origin
 git push --all origin
-
-# publish
-npm publish --registry=https://registry.npmjs.org

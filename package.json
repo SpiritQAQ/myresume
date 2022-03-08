@@ -16,7 +16,8 @@
   "scripts": {
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
-    "release": "sh scripts/release.sh"
+    "release": "sh scripts/release.sh",
+    "deploy": "sh scripts/s.sh"
   },
   "devDependencies": {
     "standard-version": "^4.4.0",
