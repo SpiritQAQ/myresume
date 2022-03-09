@@ -1,14 +1,13 @@
 <template>
   <div class="page">
-    <Content class="content"
-      :custom="false" />
+    <Content class="content" :custom="false" />
   </div>
 </template>
 
 <script>
 export default {
-  props: ["sidebarItems"]
-};
+  props: ['sidebarItems'],
+}
 </script>
 
 <style lang="stylus">
@@ -22,7 +21,7 @@ export default {
     color: $textColor;
 
     * {
-      margin: 0 !important;
+      margin: 0 ;
     }
 
     > h1 {
