@@ -20,7 +20,7 @@
 
 ## 项目经验
 
-### Kiss Web 项目 `React` `TS` `多端`<span class="right">2021.1 - 2021.7</span>
+### Kiss Web 项目 `React` `TS` `多端`<span class="right">2021.1 - 2022.4</span>
 
 - 该项目目的是将 App 大部分功能移植到 Web 端，利用 Web 的优势快速落地，支持 PC 和移动端浏览。
 - 作为该项目前端小组长负责的工作内容：确定技术方案、日常编码、文档编写、制定规范、统筹组员工作进度，测试 debug 跟进，保证项目质量如期上线。
@@ -28,7 +28,7 @@
 
 ---
 
-### Kiss App 项目 `React` `TS` `H5` `Antd`<span class="right">2020.4 - 2021.7</span>
+### Kiss App 项目 `React` `TS` `H5` `Antd`<span class="right">2020.4 - 2022.4</span>
 
 - Kiss 项目是一个出海的小说阅读应用。App 主体为原生代码。
 - 该项目中 Web 前端主要负责的工作:
