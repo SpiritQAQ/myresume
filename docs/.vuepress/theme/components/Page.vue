@@ -125,6 +125,7 @@ export default {
       text-align: right;
       font-weight: normal;
       font-style: italic;
+      white-space: nowrap
     }
   }
 }
